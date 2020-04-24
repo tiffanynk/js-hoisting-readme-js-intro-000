@@ -30,5 +30,5 @@ function sayMyName() {
     console.log(name);
   }
   sayMy();
-  //moved the invocation of sayMy() to after its declaration
+  //moved the invocation of sayMy() to after its declaration.
 }
